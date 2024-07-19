@@ -8,7 +8,7 @@ Deequ is a library built on top of Apache Spark for defining "unit tests for dat
 
 Python users may also be interested in PyDeequ, a Python interface for Deequ. You can find PyDeequ on [GitHub](https://github.com/awslabs/python-deequ), [readthedocs](https://pydeequ.readthedocs.io/en/latest/README.html), and [PyPI](https://pypi.org/project/pydeequ/).
 
-## Requirements and Installation
+## Requirements and Installation 
 
 __Deequ__ depends on Java 8. Deequ version 2.x only runs with Spark 3.1, and vice versa. If you rely on a previous Spark version, please use a Deequ 1.x version (legacy version is maintained in legacy-spark-3.0 branch). We provide legacy releases compatible with Apache Spark versions 2.2.x to 3.0.x. The Spark 2.2.x and 2.3.x releases depend on Scala 2.11 and the Spark 2.4.x, 3.0.x, and 3.1.x releases depend on Scala 2.12. 
 
